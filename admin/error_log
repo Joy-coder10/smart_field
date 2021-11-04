@@ -1,0 +1,48 @@
+[25-Aug-2021 12:17:43 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:17:43 UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:17:43 UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:17:43 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:28:55 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:28:55 UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:28:55 UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:28:55 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:30:14 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:30:14 UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:30:14 UTC] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:30:14 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 92
+[25-Aug-2021 12:32:04 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:32:04 UTC] PHP Warning:  Creating default object from empty value in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 93
+[25-Aug-2021 12:32:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::AddAddress() in /home/mtwcomng/public_html/oil/admin/resetpass.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 98
+[25-Aug-2021 12:41:54 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:41:54 UTC] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 94
+[25-Aug-2021 12:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/mtwcomng/public_html/oil/admin/resetpass.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 96
+[25-Aug-2021 12:43:14 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:43:14 UTC] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 93
+[25-Aug-2021 12:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/mtwcomng/public_html/oil/admin/resetpass.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 95
+[25-Aug-2021 12:43:20 UTC] PHP Warning:  A non-numeric value encountered in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 65
+[25-Aug-2021 12:43:20 UTC] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 93
+[25-Aug-2021 12:43:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/mtwcomng/public_html/oil/admin/resetpass.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 95
+[25-Aug-2021 12:44:14 UTC] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 93
+[25-Aug-2021 12:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/mtwcomng/public_html/oil/admin/resetpass.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 95
+[25-Aug-2021 12:45:38 UTC] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 93
+[25-Aug-2021 12:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home/mtwcomng/public_html/oil/admin/resetpass.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 95
+[25-Aug-2021 12:46:31 UTC] PHP Warning:  mail() expects parameter 5 to be string, array given in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 93
+[25-Aug-2021 14:01:02 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/mtwcomng/public_html/oil/admin/resetpass.php on line 91
